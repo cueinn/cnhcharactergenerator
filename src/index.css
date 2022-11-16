@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Sahitya', serif;
+  background-color: #F3F0ED;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Averia Serif Libre', cursive;
+}

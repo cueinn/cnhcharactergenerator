@@ -1,0 +1,10 @@
+.character-name {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  line-height: 1;
+  text-align: center;
+}
+
+.character-name small {
+  font-size: 2rem;
+}

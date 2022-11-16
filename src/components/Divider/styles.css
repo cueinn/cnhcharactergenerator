@@ -1,0 +1,9 @@
+hr {
+  margin: 1.5rem 0;
+  height: 1.5rem;
+
+  background-image: url('./src/assets/separator.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+}
